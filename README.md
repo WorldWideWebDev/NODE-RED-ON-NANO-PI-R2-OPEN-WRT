@@ -1,9 +1,11 @@
 # NODE-RED-ON-NANO-PI-R2-OPEN-WRT
 
 
-THIS IS AN OPEN PROJECT
+THIS IS AN OPEN PROJECT-- OPEN AS  IN NOT COMPLETE
 
 AT THIS STAGE THE INSTALL WORKS HOWEVER I AM ENDING UP WITH A BLANK DASHBOARD PAGE--- THIS IS NOT COMPLETE ---
+
+
 NODE-RED-ON-NANO-PI-R2-OPEN-WRT
 
 
@@ -86,7 +88,7 @@ http://<hostname>:1880. You can find the IP address by running hostname -I
 
 
 
-
+You may opt to install Node-Red on an external USB however note:- use a good quality USB device as i have found sever performance issue with some USB drives in the past and certainly with node-red on the NANO
 Im my particular case i have installed node-red onto a USB disk suing these commands as well as following the above installation.
 
 
